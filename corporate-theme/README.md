@@ -1,0 +1,2 @@
+Use patterns via Gutenberg block inserter under "Corporate Theme". Edit header and footer via site editor. Assets enqueued in functions.php. CSS and JS replicate index.html functionality.
+No images shipped; header and WhatsApp use remote icons.
