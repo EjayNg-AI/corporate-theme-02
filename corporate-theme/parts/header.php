@@ -1,7 +1,7 @@
     <header class="header">
       <div class="logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png"
+          src="https://via.placeholder.com/160x50.png?text=Logo"
           alt="Corporate Logo"
         />
       </div>
