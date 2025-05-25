@@ -1,7 +1,9 @@
 const whatsappButton = document.getElementById('whatsappBtn');
-whatsappButton.addEventListener('click', function () {
-  window.open('https://web.whatsapp.com/', '_blank');
-});
+if (whatsappButton) {
+  whatsappButton.addEventListener('click', function () {
+    window.open('https://web.whatsapp.com/', '_blank');
+  });
+}
 
 const body = document.body;
 const themeToggle = document.querySelector('.theme-toggle');
