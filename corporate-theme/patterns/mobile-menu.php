@@ -1,0 +1,6 @@
+<?php
+return array(
+    'title'      => 'Mobile Menu',
+    'categories' => array( 'corporate' ),
+    'content'    => '<div class="overlay"></div><nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation"><ul><li class="nav-item"><a href="#" class="nav-link">Home</a></li><li class="nav-item"><a href="#" class="nav-link">About</a></li><li class="nav-item"><button class="nav-link" aria-haspopup="true" aria-expanded="false" type="button">Services <span class="arrow">&#9662;</span></button><div class="dropdown" role="menu"><a href="#">Consulting</a><a href="#">Implementation</a><a href="#">Support</a></div></li><li class="nav-item"><button class="nav-link" aria-haspopup="true" aria-expanded="false" type="button">Solutions <span class="arrow">&#9662;</span></button><div class="dropdown" role="menu"><a href="#">Cloud</a><a href="#">On-Premise</a><a href="#">Hybrid</a></div></li><li class="nav-item"><button class="nav-link" aria-haspopup="true" aria-expanded="false" type="button">Resources <span class="arrow">&#9662;</span></button><div class="dropdown" role="menu"><a href="#">Blog</a><a href="#">Case Studies</a><a href="#">Webinars</a></div></li><li class="nav-item"><a href="#" class="nav-link">Contact</a></li></ul></nav>'
+);
