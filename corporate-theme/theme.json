@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "settings": {
+    "custom": {},
+    "color": {
+      "defaultPalette": false
+    },
+    "spacing": {
+      "units": ["px","em","rem","vw","vh"]
+    }
+  },
+  "styles": {}
+}
