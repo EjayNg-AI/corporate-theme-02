@@ -1,13 +1,40 @@
 {
   "version": 2,
   "settings": {
-    "custom": {},
+    "appearanceTools": true,
     "color": {
-      "defaultPalette": false
+      "palette": [
+        {"slug": "light-primary", "color": "#0057b8", "name": "Light Primary"},
+        {"slug": "dark-primary", "color": "#4ea1ff", "name": "Dark Primary"},
+        {"slug": "light-bg", "color": "#f5f6fa", "name": "Light Background"},
+        {"slug": "dark-bg", "color": "#23272f", "name": "Dark Background"}
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {"slug": "default", "fontFamily": "Segoe UI, Arial, sans-serif", "name": "Default"}
+      ],
+      "fontSizes": [
+        {"slug": "small", "size": "14px", "name": "Small"},
+        {"slug": "medium", "size": "18px", "name": "Medium"},
+        {"slug": "large", "size": "28px", "name": "Large"}
+      ]
+    },
+    "layout": {
+      "contentSize": "700px",
+      "wideSize": "1200px"
     },
     "spacing": {
-      "units": ["px","em","rem","vw","vh"]
+      "units": ["px", "em", "rem", "vw", "vh"]
     }
   },
-  "styles": {}
+  "styles": {
+    "elements": {
+      "body": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--default)"
+        }
+      }
+    }
+  }
 }
