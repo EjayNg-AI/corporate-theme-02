@@ -1,0 +1,20 @@
+/*
+Theme Name: Corporate Theme V3
+Theme URI: https://example.com/corporate-theme-v3
+Author: Corporate Inc.
+Author URI: https://example.com
+Description: A modern, fully functional Full Site Editing (FSE) WordPress theme with dark mode, responsive design, and interactive features.
+Requires at least: 6.4
+Tested up to: 6.4
+Requires PHP: 7.4
+Version: 1.0.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: corporate-theme-v3
+Tags: full-site-editing, block-patterns, block-styles, custom-colors, custom-menu, featured-images, responsive-layout, threaded-comments, translation-ready, wide-blocks
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* This file is intentionally minimal - main styles are in assets/css/style.css */
